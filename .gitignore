@@ -1,0 +1,17 @@
+# Dependencies (Frontend & Backend)
+backend/node_modules/
+frontend/node_modules/
+node_modules/
+
+# Environment Variables & Secrets (Backend)
+backend/.env
+.env
+
+# Build Outputs (Frontend)
+frontend/dist/
+frontend/build/
+
+# Logs & System Files
+*.log
+.DS_Store
+.vscode/
