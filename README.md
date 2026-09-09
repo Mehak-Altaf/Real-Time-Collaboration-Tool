@@ -27,7 +27,7 @@ CollabSpace is a full-stack, real-time collaboration application built for seaml
 ## 📸 Application Preview
 
 ### 1. Authentication Page
-![Login Page](./screenshots\loginpage.jpg)
+![Login Page](./screenshots/loginpage.jpg)
 
 ### 2. Workspace Dashboard
 ![Workspace Dashboard](./screenshots/dashboard.jpg)
